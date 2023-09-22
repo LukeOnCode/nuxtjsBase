@@ -1,4 +1,4 @@
-# VueV2Project
+# NuxtjsBase
 
 ## Build Setup
 
